@@ -10,10 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a href="https://github.com/karthikrocksta/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikrocksta&langs_count=10&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikrocksta&langs_count=10&layout=compact" />
 </a>
 <a href="https://github.com/karthikrocksta/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikrocksta&&count_private=true&include_all_commits&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=ffba2c" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=karthikrocksta&&count_private=true&include_all_commits&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=ffba2c" />
 </a>
 <br><br>
 <a href="https://github.com/karthikrocksta/">
