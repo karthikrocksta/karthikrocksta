@@ -33,8 +33,5 @@ You can click the Preview link to take a look at your changes.
   <img align="left" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </a>
 <a href="https://github.com/karthikrocksta/">
-  <img align="left" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-</a>
-<a href="https://github.com/karthikrocksta/">
   <img align="left" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 </a>
