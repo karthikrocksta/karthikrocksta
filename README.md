@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <!-- <a href="https://github.com/karthikrocksta/"> -->
   <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikrocksta&langs_count=10&layout=compact" />
 <!-- </a> -->
-<br><br>
+<br>
 <!-- <a href="https://github.com/karthikrocksta/"> -->
   <img align="left" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 <!-- </a> -->
