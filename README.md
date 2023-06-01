@@ -2,7 +2,7 @@
 - 👀  I like developing fresh and jaw-dropping UI/UX
 - 🌱  I’m currently learning new technologies
 - 💞️  I’m looking forward to collaborate on Human Machine Interfaces
-- 📫  You can reach me at <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&<a href="mailto:karthik810@gmail.com">karthik810@gmail.com</a>>
+- 📫  You can reach me at <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
 
 <!---
 karthikrocksta/karthikrocksta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
