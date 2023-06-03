@@ -125,10 +125,9 @@ You can click the Preview link to take a look at your changes.
 
 ## Creators [🔝](#readme)
 
-|                                                                                                                                                    Author                                                                                                                                                     |                                                                                                                                     Collaborator                                                                                                                                      |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                                    Author                                                                                                                                                     |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [<img src="https://github.com/karthikrocksta.png?size=115" width=115><br><sub>@karthikrocksta</sub>](https://github.com/karthikrocksta) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/karthikrocksta) |
-<!-- [<img src="https://github.com/karthikrocksta.png?size=250" width=115><br><sub>@karthikrocksta</sub>](https://github.com/karthikrocksta) <br><br> [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/karthikrocksta) | -->
 
 ## See More Repositories
 
