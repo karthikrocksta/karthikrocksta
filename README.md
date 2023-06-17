@@ -86,11 +86,11 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 **Flutter Developer**\
 📆 2021 - present\
-📍 **NPST Limited** - Noida, India
+📍 **NPST Limited**
 
 - 👨‍💻 **Senior Application Engineer**\
 📆 2019 - 2021\
-📍 **TNS Electric Mobility Ventures** - New Delhi, India
+📍 **TNS Electric Mobility Ventures**
 
 - 👨‍💻 **Mechatronics and Front End Developer**\
 📆 2018 - 2019\
