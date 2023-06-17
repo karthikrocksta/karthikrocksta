@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀  I like developing fresh and jaw-dropping UI/UX
 - 🌱  I’m currently learning new technologies
-- 💞️  I’m looking forward to collaborate on Human Machine Interfaces
+- 💞️  I’m looking forward to collaborating on Human Machine Interfaces
 <!-- </a> -->
 
 <p align='center'>
@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+  Do you like my open-source projects? <a href='https://stars.github.com/nominate/'>Nominate me to GitHub Stars ⭐</a>
 </p>
 
 <!-- <details align='center'>
@@ -134,13 +134,13 @@ You can click the Preview link to take a look at your changes.
 | Project                                                                                                         | Short description                                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Gallery](https://karthikrocksta.github.io/gallery/)         | Nice tools collection for app design                                                                                                                     |
-| [Geoguess](https://github.com/karthikrocksta/Geoguess) | Create a very simple landing Geoguess game for your web/ mobile app with bootstrap                                                                                |
-| [Developer_Folio](https://github.com/karthikrocksta/Developer_Folio)                                                        | Build & Download your Developer Portfolio GitHub Markdown or Any Web Pages wth fast, reliable with amazing dynamic process code to use in GitHub Markdown or Any Web Pages |
+| [Geoguess](https://github.com/karthikrocksta/Geoguess) | Create a very simple landing Geoguess game for your web/ mobile app with Bootstrap                                                                                |
+| [My Dev Folio](https://karthikrocksta.github.io/)                                                        | Explore Macintosh Theme Developer Portfolio GitHub Markdown or Any Web Pages with fast, reliable amazing dynamic process code to use in GitHub Markdown or Any Web Pages |
 | [flutter_firebase_boilerplate](https://github.com/karthikrocksta/flutter_firebase_boilerplate)                                                        | Build & Download standalone app with Badge, SVG, Hex & so on to use in GitHub Markdown or Any Web Pages wth fast, reliable with amazing dynamic process code to use in GitHub Markdown or Any Web Pages                                                   |
 
 Improve your README.md profile with these amazing badges. See a sample [here](https://github.com/karthikrocksta)
 
-It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/karthikrocksta/karthikrocksta/graphs/contributors). As usual, we update our top 3 contributors list on every month. But last month we didn't get any contributor. So for this month We're going to remove this section. We do respect & love our all contributors.
+It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/karthikrocksta/karthikrocksta/graphs/contributors). As usual, we update our top 3 contributors list on every month. But last month we didn't get any contributors. So for this month, We're going to remove this section. We do respect & love our all contributors.
 
 **Note:** Every month the Contributors list will be updated by observing their contributions.
 
@@ -157,15 +157,15 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 ```
 
 - {TEXT} = Paste your badge text
-- {HEX-COLOR} = Paste your hex color whithout "#" from Simple Icon
+- {HEX-COLOR} = Paste your hex color without "#" from Simple Icon
 - {LOGO-NAME} = Logo name from Simple Icon
 
-4 - Paste on category with `Alphabetical` order.
+4 - Paste on a category in `Alphabetical` order.
 
-5 - Commit your changes.
+5 - Commit to your changes.
 
 
-## How to use?
+## How to use it?
 
 1. Get a URL
 2. Create a img tag `<img src="{BadgeURLHere}" />` or `![image]({BadgeURLHere})`
