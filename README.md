@@ -184,12 +184,6 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 | ------------------------------------------------------------------------------------------------------------------------------------- |
 | <img width='200' src="https://gists-readme.yizack.com/api/pin?user=karthikrocksta&id=7866ae1b3651ce8b300cc0cad4478854&owner=true" /> |
 
-## 📄 Gists List Card [🔝](#readme)
-
-| Badge                                                                               |
-| ----------------------------------------------------------------------------------- |
-| <img width='300' src="https://gists-readme.yizack.com/api?user=alexandresanlim" /> |
-
 ## 💳 Github Profile Summary Card [🔝](#readme)
 
 | Badge                                                                                                                                  |
