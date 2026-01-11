@@ -3,6 +3,12 @@ karthikrocksta/karthikrocksta is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
+
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
+
 <h1 align='center'>
   Hi there 👋 I'm Karthik Krishna Kumar 👨‍💻
 </h1>
