@@ -1,8 +1,6 @@
 # Hi there 👋 I'm Karthik Krishna Kumar 👨‍💻
 
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_images/1376265771408498690/Wz9z21ce.jpg" width="100" />
-  <br>
   <img src="https://img.shields.io/badge/🟢_Open_to_Work-white" />
 </p>
 
