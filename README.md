@@ -5,8 +5,6 @@
 </p>
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=2E9EF7&center=true&vCenter=true&width=435&lines=Digital+Architect+%7C+AI+Orchestrator;Ideas+to+Actionable+Insights;Flutter+Expert;Mechanical+Engineer+%7C+Artist" alt="Typing SVG" />
 </div>
 
